@@ -1,0 +1,16 @@
+{
+  "synthetic": true,
+  "totals": {
+    "tasks": 5,
+    "awarded": 2,
+    "unassigned": 3,
+    "hypothetical_cost_cents": 300
+  },
+  "winners": {
+    "hand-1": "editor",
+    "hand-2": "reviewer",
+    "hand-3": null,
+    "hand-4": null,
+    "hand-5": null
+  }
+}

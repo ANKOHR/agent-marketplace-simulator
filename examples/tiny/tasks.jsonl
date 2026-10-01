@@ -1,0 +1,6 @@
+# SYNTHETIC hand-written five-task example; hypothetical bids
+{"as_of": "2026-09-30", "bids": [{"agent_id": "editor", "confidence_bp": 8000, "cost_cents": 100}, {"agent_id": "reviewer", "confidence_bp": 10000, "cost_cents": 150}], "budget_cents": 500, "date": "2026-09-30", "id": "hand-1", "min_confidence_bp": 5000, "synthetic": true}
+{"as_of": "2026-09-30", "bids": [{"agent_id": "editor", "confidence_bp": 5000, "cost_cents": 100}, {"agent_id": "reviewer", "confidence_bp": 10000, "cost_cents": 200}], "budget_cents": 500, "date": "2026-09-30", "id": "hand-2", "min_confidence_bp": 5000, "synthetic": true}
+{"as_of": "2026-09-30", "bids": [{"agent_id": "editor", "confidence_bp": 10000, "cost_cents": 501}], "budget_cents": 500, "date": "2026-09-30", "id": "hand-3", "min_confidence_bp": 5000, "synthetic": true}
+{"as_of": "2026-09-30", "bids": [{"agent_id": "editor", "confidence_bp": 4999, "cost_cents": 100}], "budget_cents": 500, "date": "2026-09-30", "id": "hand-4", "min_confidence_bp": 5000, "synthetic": true}
+{"as_of": "2026-09-30", "bids": [], "budget_cents": 500, "date": "2026-09-30", "id": "hand-5", "min_confidence_bp": 5000, "synthetic": true}
