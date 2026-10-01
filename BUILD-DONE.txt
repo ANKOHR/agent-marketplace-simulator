@@ -1,0 +1,10 @@
+Agent Marketplace Simulator local build complete
+Test count: 36 passed.
+Local tested implementation commit: 3cc98cf41f59acd992218ba30cac261558cc2421
+Branch: main
+Installed CLI demo wall time: 0.643696 seconds.
+Installed JSON report wall time: 0.192432 seconds.
+
+Built a dependency-free CPU-only Python ams CLI with fixtures, run, report, bids and validate commands, pure deterministic auctions using exact integer ratios, strict JSONL validation, atomic results and report writes, saved input snapshots, source hashes, and mandatory synthetic/real provenance and hypothetical bid labels. The independently labelled 200-record fixture reconciles exactly to 100 awards, 100 unassigned tasks and 15000 hypothetical cents, with zero wrong winners, false positives or missed awards. A hand-written five-record example, adversarial tests, complete README, measured local evidence, KOML lessons and a prospective two-week improvement hook are included. The final real-use verdict remains pending that evidence window; provisional disposition is maintain as portfolio evidence. No real trial data or publishing is included.
+
+The implementation hash above identifies the tested code and evidence. This completion record is committed separately because a file cannot contain the hash of its own commit.
